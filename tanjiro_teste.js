@@ -34,3 +34,30 @@ const kamadoTanjiro = {
     },
   },
  }
+
+const inosukeHashibira = {
+  name: "Inosuke Hashibira",
+  age: 15,
+  familymembers: {
+    alive: {
+      wife: "Aoi Kanzaki"
+    },
+    dead: {
+      mother: "Kotoha Hashibira"
+    }
+  },
+  abilities: "sense_of_the_touch",
+  breath_of_beast: {
+    firstFang: "Pierce",
+    secondFang: "Rip and Tear",
+    thirdFang: "Devour",
+    fourthFang: "Slice 'n' Dice",
+    fifthFang: "Crazy Cutting",
+    sixthFang: "Palisade Bite",
+    seventhFang: "Spatial Awareness",
+    eigthFang: "Explosive Rush",
+    ninthFang: "Extending Bendy Slash",
+    tenthFang: "Whirling Fangs",
+    // bonusFang: "Sudden Throwing Strike"
+  }
+}
