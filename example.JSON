@@ -1,0 +1,16 @@
+[
+    {
+        "name":"Artoria Pendragon",
+        "class":"Saber",
+        "power":["Invisible Air","Mana Burst","Magic Resistance"],
+        "equipments":["Excalibur","Avalon","Armor"],
+        "master": "Emiya Shirou"
+    },
+    {
+        "name": "Emiya Shirou",
+        "class": "Archer",
+        "power": [],
+        "equipments": [],
+        "master": "Rin Tohsaka"
+    }
+]
