@@ -4,7 +4,7 @@ const kamadoTanjiro = {
   familyMembers: {
     alive: {
     sister: "Kamado Nezuko",
-      brother_in_law: "Zenitsu Agatsuma"
+      brother_in_law: "Agatsuma Zenitsu"
     },
     dead: {
       father: "Kamado Tanjuro",
@@ -76,7 +76,7 @@ const zenitzuAgatsuma ={
       cousin: "Kaigaku"
     }
   },
-  abilities: "sense_of_the_smell",
+  abilities: "sense_of_the_hearing",
   breath_of_thunder: {
     firstForm: {
       principal: "Thunderclap and Flash",
