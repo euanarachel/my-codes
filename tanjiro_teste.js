@@ -4,6 +4,7 @@ const kamadoTanjiro = {
   familyMembers: {
     alive: {
     sister: "Kamado Nezuko",
+      brother_in_law: "Zenitsu Agatsuma"
     },
     dead: {
       father: "Kamado Tanjuro",
@@ -38,7 +39,7 @@ const kamadoTanjiro = {
 const inosukeHashibira = {
   name: "Inosuke Hashibira",
   age: 15,
-  familymembers: {
+  familyMembers: {
     alive: {
       wife: "Aoi Kanzaki"
     },
@@ -59,5 +60,30 @@ const inosukeHashibira = {
     ninthFang: "Extending Bendy Slash",
     tenthFang: "Whirling Fangs",
     // bonusFang: "Sudden Throwing Strike"
+  }
+}
+
+const zenitzuAgatsuma ={
+  name: "Zenitsu Agatsuma",
+  age: 15,
+  familymembers: {
+    alive: {
+      wife: "Kamado Nezuko",
+      brother_in_law: "Kamado Tanjiro"
+    },
+    dead: {
+      grandfather: "Jigoro Kuwajima",
+      cousin: "Kaigaku"
+    }
+  },
+  abilities: "sense_of_the_smell",
+  breath_of_thunder: {
+    firstForm: {
+      principal: "Thunderclap and Flash",
+      extension1: "Six Fold",
+      extension2: "Eight Fold",
+      extension3: "God Speed",
+    },
+    seventhForm: "Honoikazuchi no Kami"
   }
 }
